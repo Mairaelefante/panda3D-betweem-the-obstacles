@@ -14,7 +14,7 @@ A Python, Panda3D game project.
 This repository preserves the original project files.
 
 ## Running
-Install the appropriate engine/runtime (Python, Panda3D) and open the project entry point (`main.py` or `main.lua`, depending on the project).
+The entry point is [`main.py`](main.py), which imports `Core.game_app.GameApp`. That `Core` package is not currently visible in the repository root, so a direct `python main.py` invocation may fail unless the missing module is supplied. The original project archive (`panda3d-platformer.zip`) is also included for reference.
 
 ## Notes
 Review dependencies, assets and runtime compatibility before distribution.
