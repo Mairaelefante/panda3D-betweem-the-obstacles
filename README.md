@@ -1,3 +1,11 @@
+![Between the Obstacles](cover.svg)
+
+> **Python · Panda3D · Interactive gameplay**
+
+**Focus:** Game Development · [Source and project files](./)
+
+---
+
 # Panda3D Platformer
 
 A Python, Panda3D game project.
